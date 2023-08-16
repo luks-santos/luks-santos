@@ -6,9 +6,9 @@
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.bt46@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luucasbt_)
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=luks-santos&hide=contribs,prs&show_icons=true&theme=onedark)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=luks-santos&hide=contribs,prs&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luks-santos&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luks-santos&layout=compact)
 
 </div>
 <hr/>
