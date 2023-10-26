@@ -28,8 +28,8 @@ Estou sempre em busca de conhecimento e desafios, meus projetos pessoais e acad�
   ### **Projetos** </strong><br/>
 </div>
 
- - <img width="24px" src="https://app.mediccap.com.br/favicon.ico"> [Mediccap](https://app.mediccap.com.br/login) Desenvolvi um sistema em Django e Angular para gerenciar leads. Foi utilizado Docker e hospedado na AWS através do EC2.
- - Desenvolvi um aplicativo web em Django para facilitar o processo do PNAE em um projeto da faculdade. O aplicativo permitiu que registrassem pedidos de alimentos, valores e relatórios.
+ - <img width="24px" src="https://app.mediccap.com.br/favicon.ico"> [Mediccap](https://app.mediccap.com.br/login) Desenvolvi esse sistema em Django e Angular para gerenciar leads. Foi utilizado Docker e hospedado na AWS através do EC2.
+ - [compnae](https://github.com/luks-santos/compnae) Desenvolvi esse aplicativo web em Django para facilitar o processo do PNAE em um projeto da faculdade. O aplicativo permitiu que registrassem pedidos de alimentos, valores e relatórios.
 
 <div style="display: inline_block" align="center">
   
