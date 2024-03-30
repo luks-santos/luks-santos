@@ -15,7 +15,8 @@ Estou sempre em busca de conhecimento e desafios, meus projetos pessoais e acad�
 
 <div style="display: inline_block" align="center">
   
-  ### **Sobre mim** </strong><br/>
+  ### **Sobre mim**
+  [Meu portfolio](https://luks-santos.github.io/meu-portfolio/)<br/>
 </div>
 
    - Graduando em Engenharia de Computação no IFMG 🎓.
