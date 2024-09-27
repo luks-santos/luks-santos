@@ -28,7 +28,7 @@ Estou sempre em busca de conhecimento e desafios, meus projetos pessoais e acad�
   ### **Projetos** </strong><br/>
 </div>
 
- - [Rápido Chamados](https://github.com/luks-santos/chamados-projeto-ufn) Sistema desenvolvido em Java com Spring + Spring Boot e JWT, utiliza Angular 16 no front-end e tem a responsabilidade de gerenciar chamados. 
+ - [API Chamados](https://github.com/luks-santos/chamados-projeto-ufn) Sistema desenvolvido em Java com Spring + Spring Boot e JWT, utiliza Angular 16 no front-end e tem a responsabilidade de gerenciar chamados. 
  - [Mediccap](https://app.mediccap.com.br/login) Sistema em Django e Angular para gerenciar leads. Foi utilizado Docker e hospedado na AWS através do EC2.
  - [compnae](https://github.com/luks-santos/compnae) Sistema em Django para facilitar o processo do PNAE em um projeto da faculdade. O aplicativo permitiu que registrassem pedidos de alimentos, valores e relatórios.
 
