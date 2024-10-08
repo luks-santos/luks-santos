@@ -1,8 +1,8 @@
 
 <div style="display: inline_block" align="center"> 
 
-### **Olá! Eu sou o Lucas Batista!** 
-Estou sempre em busca de conhecimento e desafios, meus projetos pessoais e acadêmicos encontram-se aqui. Para entrar em contato comigo, utilize os ícones abaixo.
+### **Olá! Me chamo Lucas Batista!** 
+Meus projetos pessoais e acadêmicos encontram-se aqui. Para entrar em contato comigo, utilize os ícones abaixo.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bt/)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.bt46@gmail.com)
@@ -18,19 +18,13 @@ Estou sempre em busca de conhecimento e desafios, meus projetos pessoais e acad�
   ### **Sobre mim**
 </div>
 
-   - Graduando em Engenharia de Computação no IFMG 🎓.
-   - Estou atualmente trabalhando como desenvolvedor Full Stack na Find Soluções.
-   - Busco me especializar em (Java e Spring) com Angular, as tecnologias com as quais estou trabalhando no momento.
-   - Inglês em construção, sempre praticando, com nível intermediário em desenvolvimento. 
+   - Graduado em Engenharia de Computação no IFMG 🎓.
 
 <div style="display: inline_block" align="center">
 
   ### **Projetos** </strong><br/>
 </div>
 
- - [API Chamados](https://github.com/luks-santos/chamados-projeto-ufn) Sistema desenvolvido em Java com Spring + Spring Boot e JWT, utiliza Angular 16 no front-end e tem a responsabilidade de gerenciar chamados. 
- - [Mediccap](https://app.mediccap.com.br/login) Sistema em Django e Angular para gerenciar leads. Foi utilizado Docker e hospedado na AWS através do EC2.
- - [compnae](https://github.com/luks-santos/compnae) Sistema em Django para facilitar o processo do PNAE em um projeto da faculdade. O aplicativo permitiu que registrassem pedidos de alimentos, valores e relatórios.
 
 <div style="display: inline_block" align="center">
   
