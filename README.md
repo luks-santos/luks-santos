@@ -4,8 +4,8 @@ I'm Lucas, a Computer Engineering graduate and Full Stack Developer from Brazil.
 
 ---
 
-- 🧠 Currently focused on revisiting core concepts od **API Design**, **REST**, **gRPC**, and **API Gateway**.
-- 🚀 Improving my front-end skills with **React** and **Next.js**, while staying sharp with Java, Node, and TypeScript.
+- 🧠 Currently focused on revisiting core concepts of **API Design**, **REST**, **gRPC**, and **API Gateway**.
+- 🚀 Improving my front-end skills with **React** and **Next.js**, while staying sharp with Java, JavaScript, TypeScript, Angular.
 
 ---
 
@@ -15,8 +15,8 @@ Here are some of the technologies I use, represented with icons from **simple-ic
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/openjdk/007396" height="32" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript"/>
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="32" alt="Angular"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React"/>
