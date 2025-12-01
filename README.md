@@ -16,12 +16,27 @@ Here are some of the technologies I use:
 <p align="left">
   <img src="https://cdn.simpleicons.org/openjdk/007396" height="32" alt="Java"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="Node.js"/>
+
+  <!-- Python (light/dark) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/000000">
+    <img height="32" alt="Python" src="https://cdn.simpleicons.org/python/000000">
+  </picture>
+
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript"/>
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="32" alt="Angular"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/ededed" height="32" alt="Next.js"/>
+
+  <!-- Next.js (light/dark) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000">
+    <img height="32" alt="Next.js" src="https://cdn.simpleicons.org/nextdotjs/000000">
+  </picture>
 </p>
+
 
 
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
