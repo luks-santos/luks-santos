@@ -11,7 +11,7 @@ I'm Lucas, a Computer Engineering graduate and Full Stack Developer from Brazil.
 
 ## 💻 Technologies & Tools
 
-Here are some of the technologies I use, represented with icons from **simple-icons**:
+Here are some of the technologies I use:
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/openjdk/007396" height="32" alt="Java"/>
@@ -20,7 +20,7 @@ Here are some of the technologies I use, represented with icons from **simple-ic
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" alt="TypeScript"/>
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="32" alt="Angular"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="32" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/ededed" height="32" alt="Next.js"/>
 </p>
 
 
