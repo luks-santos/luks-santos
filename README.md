@@ -4,8 +4,9 @@ I'm Lucas, a Computer Engineering graduate and Full Stack Developer from Brazil.
 
 ---
 
-- 🧠 Currently focused on revisiting core concepts of **API Design**, **REST**, **gRPC**, and **API Gateway**.
-- 🚀 Improving my front-end skills with **React** and **Next.js**, while staying sharp with Java, JavaScript, TypeScript, Angular.
+- 🧠 Currently focused on revisiting core concepts of API Design, REST, gRPC, and API Gateway.
+- 🚧 Studying the fundamentals while already building a small project using the OpenAI Chat API, with Spring (Java 25) on the back end and Angular 21 on the front end.
+- 🚀 Improving my front-end skills with React and Next.js, while staying sharp with Java, JavaScript and Angular.
 
 ---
 
